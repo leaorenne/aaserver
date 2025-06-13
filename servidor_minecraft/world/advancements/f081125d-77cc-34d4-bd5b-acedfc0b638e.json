@@ -221,7 +221,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-06-13 22:25:01 +0000",
-      "bread": "2025-06-13 22:56:21 +0000"
+      "bread": "2025-06-13 22:56:21 +0000",
+      "golden_apple": "2025-06-13 23:07:05 +0000"
     },
     "done": false
   },
@@ -249,9 +250,45 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-13 23:07:43 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-13 22:54:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-13 23:01:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-13 23:08:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-13 23:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-13 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-13 23:01:38 +0000"
     },
     "done": true
   },
