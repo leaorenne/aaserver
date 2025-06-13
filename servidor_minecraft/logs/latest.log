@@ -620,3 +620,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 22:12:43.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Anaconda
 [13Jun2025 22:12:43.931] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
 [13Jun2025 22:19:19.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Stone Age]
+[13Jun2025 22:25:04.408] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[13Jun2025 22:25:04.498] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[13Jun2025 22:25:04.499] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[13Jun2025 22:25:04.499] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[13Jun2025 22:25:04.499] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[13Jun2025 22:25:04.499] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[13Jun2025 22:25:04.500] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[13Jun2025 22:25:04.500] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[13Jun2025 22:25:22.306] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[13Jun2025 22:25:22.306] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[13Jun2025 22:25:22.315] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[13Jun2025 22:25:22.316] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[13Jun2025 22:25:22.316] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[13Jun2025 22:25:22.317] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[13Jun2025 22:25:22.317] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[13Jun2025 22:25:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu hit the ground too hard
+[13Jun2025 22:25:38.177] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
+[13Jun2025 22:27:50.664] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[13Jun2025 22:27:50.665] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[13Jun2025 22:27:50.833] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[13Jun2025 22:27:50.833] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[13Jun2025 22:27:50.833] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[13Jun2025 22:27:50.833] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[13Jun2025 22:27:50.834] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[13Jun2025 22:27:50.842] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[13Jun2025 22:27:50.843] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[13Jun2025 22:27:50.843] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[13Jun2025 22:27:54.580] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[13Jun2025 22:27:54.645] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[13Jun2025 22:27:54.645] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[13Jun2025 22:28:27.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THbelcebu lost connection: Disconnected
+[13Jun2025 22:28:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu left the game
+[13Jun2025 22:28:45.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THbelcebu[/127.36.50.7:50443] logged in with entity id 10516 at (-71.04775472690365, 84.0, 457.69999998807907)
+[13Jun2025 22:28:45.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu joined the game
+[13Jun2025 22:29:25.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Getting an Upgrade]
+[13Jun2025 22:29:32.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Nightmare Stalker
+[13Jun2025 22:29:32.592] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved

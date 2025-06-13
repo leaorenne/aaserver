@@ -23,11 +23,29 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-06-13 22:01:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -59,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-13 22:19:19 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2025-06-13 22:01:13 +0000"
@@ -71,9 +95,28 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-06-13 22:09:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-06-13 22:27:59 +0000",
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
     },
     "done": true
   },
@@ -126,11 +169,26 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-06-13 22:24:34 +0000",
       "minecraft:birch_forest": "2025-06-13 22:01:14 +0000",
       "minecraft:swamp": "2025-06-13 22:02:10 +0000",
-      "minecraft:forest": "2025-06-13 22:01:52 +0000"
+      "minecraft:forest": "2025-06-13 22:01:52 +0000",
+      "minecraft:flower_forest": "2025-06-13 22:28:25 +0000",
+      "minecraft:plains": "2025-06-13 22:20:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
     },
     "done": false
   },
@@ -139,6 +197,12 @@
       "placeables": "2025-06-13 22:01:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
@@ -158,9 +222,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chicken": "2025-06-13 22:25:01 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-06-13 22:01:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-13 22:25:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
     },
     "done": false
   },
@@ -205,6 +287,18 @@
       "has_recipe": "2025-06-13 22:01:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 22:27:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
