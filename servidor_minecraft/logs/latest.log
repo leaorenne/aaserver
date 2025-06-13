@@ -671,3 +671,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 22:50:58.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Isn't It Iron Pick]
 [13Jun2025 22:51:02.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THbelcebu lost connection: Disconnected
 [13Jun2025 22:51:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu left the game
+[13Jun2025 22:53:25.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THbelcebu[/127.36.50.7:35457] logged in with entity id 17367 at (-111.20483148083166, 22.0, 855.1870655962487)
+[13Jun2025 22:53:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu joined the game
+[13Jun2025 22:54:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Amateur Archaeologist]
+[13Jun2025 23:01:13.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Diamonds!]
+[13Jun2025 23:01:38.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Knowledge of Death]
+[13Jun2025 23:01:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Back to childhood]
+[13Jun2025 23:01:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Not even afraid of death]
