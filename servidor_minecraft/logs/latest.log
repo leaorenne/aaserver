@@ -657,3 +657,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 22:29:25.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Getting an Upgrade]
 [13Jun2025 22:29:32.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Nightmare Stalker
 [13Jun2025 22:29:32.592] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
+[13Jun2025 22:33:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Dread Hound
+[13Jun2025 22:33:42.776] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
+[13Jun2025 22:40:20.735] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[13Jun2025 22:41:18.820] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[13Jun2025 22:41:23.664] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[13Jun2025 22:41:23.821] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[13Jun2025 22:41:31.911] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
