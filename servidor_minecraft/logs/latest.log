@@ -1,22 +1,22 @@
-[13Jun2025 21:52:19.201] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[13Jun2025 21:52:19.204] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[13Jun2025 21:52:20.182] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Jun2025 21:52:20.229] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/aaserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Jun2025 21:52:20.629] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aaserver/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jun2025 21:52:20.631] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aaserver/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jun2025 21:52:20.632] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aaserver/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jun2025 21:52:20.633] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aaserver/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jun2025 21:52:20.952] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[13Jun2025 21:52:20.955] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/aaserver/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.25.jar
-[13Jun2025 21:52:20.955] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/aaserver/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
-[13Jun2025 21:52:20.956] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 13 dependencies adding them to mods collection
-[13Jun2025 21:52:24.583] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Jun2025 21:52:24.897] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[13Jun2025 21:52:24.931] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Jun2025 21:52:25.096] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Jun2025 21:52:25.104] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Jun2025 21:52:25.129] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Jun2025 21:52:25.340] [main/INFO] [Puzzles Lib/]: Loading 99 mods:
+[14Jun2025 16:16:51.548] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[14Jun2025 16:16:51.557] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[14Jun2025 16:16:53.456] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Jun2025 16:16:53.517] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/aaserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14Jun2025 16:16:53.893] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aaserver/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jun2025 16:16:53.894] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aaserver/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jun2025 16:16:53.895] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aaserver/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jun2025 16:16:53.896] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/aaserver/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Jun2025 16:16:54.227] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Jun2025 16:16:54.229] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/aaserver/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.25.jar
+[14Jun2025 16:16:54.229] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/aaserver/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
+[14Jun2025 16:16:54.229] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 13 dependencies adding them to mods collection
+[14Jun2025 16:16:57.861] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Jun2025 16:16:58.147] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14Jun2025 16:16:58.194] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Jun2025 16:16:58.330] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Jun2025 16:16:58.332] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Jun2025 16:16:58.353] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Jun2025 16:16:58.524] [main/INFO] [Puzzles Lib/]: Loading 99 mods:
 	- ad_astra 1.15.18
 	- aether 1.20.1-1.2.0-neoforge
 	- aiimprovements 0.5.2
@@ -116,285 +116,286 @@
 	- yungsbridges 1.20-Forge-4.0.3
 	- yungsextras 1.20-Forge-4.0.3
 	- zeta 1.0-14
-[13Jun2025 21:52:27.087] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[13Jun2025 21:52:27.087] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[13Jun2025 21:52:28.009] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
-[13Jun2025 21:52:28.565] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[13Jun2025 21:52:36.164] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[13Jun2025 21:52:36.184] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
-[13Jun2025 21:52:36.356] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
-[13Jun2025 21:52:36.360] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
-[13Jun2025 21:52:37.175] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[13Jun2025 21:52:37.612] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[13Jun2025 21:52:37.758] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[13Jun2025 21:52:37.776] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[13Jun2025 21:52:37.804] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[13Jun2025 21:52:37.889] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[13Jun2025 21:52:38.157] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[13Jun2025 21:52:38.190] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[13Jun2025 21:52:38.293] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[13Jun2025 21:52:38.293] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[13Jun2025 21:52:38.336] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[13Jun2025 21:52:38.337] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[13Jun2025 21:52:38.339] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[13Jun2025 21:52:38.346] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[13Jun2025 21:52:38.347] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[13Jun2025 21:52:38.349] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[13Jun2025 21:52:38.350] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[13Jun2025 21:52:40.254] [ForkJoinPool.commonPool-worker-1/INFO] [friendsandfoes/]: [Friends&Foes] An update is available! You are using 2.0.10 version, but the latest version is 3.0.9.
-[13Jun2025 21:52:40.907] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[13Jun2025 21:52:40.912] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[13Jun2025 21:52:41.150] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 160 modules to load.
-[13Jun2025 21:52:41.152] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
-[13Jun2025 21:52:41.161] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
-[13Jun2025 21:52:41.161] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
-[13Jun2025 21:52:41.162] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
-[13Jun2025 21:52:41.201] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
-[13Jun2025 21:52:41.230] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
-[13Jun2025 21:52:41.233] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
-[13Jun2025 21:52:41.233] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
-[13Jun2025 21:52:41.234] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
-[13Jun2025 21:52:41.240] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
-[13Jun2025 21:52:41.242] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
-[13Jun2025 21:52:41.242] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
-[13Jun2025 21:52:41.252] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
-[13Jun2025 21:52:41.253] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
-[13Jun2025 21:52:41.254] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
-[13Jun2025 21:52:41.264] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
-[13Jun2025 21:52:41.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
-[13Jun2025 21:52:41.271] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
-[13Jun2025 21:52:41.274] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
-[13Jun2025 21:52:41.274] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
-[13Jun2025 21:52:41.274] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
-[13Jun2025 21:52:41.275] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
-[13Jun2025 21:52:41.275] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
-[13Jun2025 21:52:41.275] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
-[13Jun2025 21:52:41.277] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
-[13Jun2025 21:52:41.282] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
-[13Jun2025 21:52:41.282] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
-[13Jun2025 21:52:41.287] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
-[13Jun2025 21:52:41.291] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
-[13Jun2025 21:52:41.291] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
-[13Jun2025 21:52:41.291] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
-[13Jun2025 21:52:41.313] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
-[13Jun2025 21:52:41.317] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
-[13Jun2025 21:52:41.319] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
-[13Jun2025 21:52:41.320] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
-[13Jun2025 21:52:41.322] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
-[13Jun2025 21:52:41.323] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
-[13Jun2025 21:52:41.324] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
-[13Jun2025 21:52:41.324] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
-[13Jun2025 21:52:41.325] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
-[13Jun2025 21:52:41.327] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
-[13Jun2025 21:52:41.329] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
-[13Jun2025 21:52:41.330] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
-[13Jun2025 21:52:41.330] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
-[13Jun2025 21:52:41.330] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
-[13Jun2025 21:52:41.332] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
-[13Jun2025 21:52:41.334] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
-[13Jun2025 21:52:41.336] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
-[13Jun2025 21:52:41.336] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
-[13Jun2025 21:52:41.336] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
-[13Jun2025 21:52:41.337] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
-[13Jun2025 21:52:41.342] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
-[13Jun2025 21:52:41.356] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
-[13Jun2025 21:52:41.359] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
-[13Jun2025 21:52:41.360] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
-[13Jun2025 21:52:41.361] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
-[13Jun2025 21:52:41.363] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
-[13Jun2025 21:52:41.364] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
-[13Jun2025 21:52:41.381] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
-[13Jun2025 21:52:41.381] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
-[13Jun2025 21:52:41.384] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
-[13Jun2025 21:52:41.386] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
-[13Jun2025 21:52:41.389] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
-[13Jun2025 21:52:41.392] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
-[13Jun2025 21:52:41.393] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
-[13Jun2025 21:52:41.398] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
-[13Jun2025 21:52:41.399] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
-[13Jun2025 21:52:41.399] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
-[13Jun2025 21:52:41.399] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
-[13Jun2025 21:52:41.400] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
-[13Jun2025 21:52:41.400] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
-[13Jun2025 21:52:41.400] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
-[13Jun2025 21:52:41.401] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
-[13Jun2025 21:52:41.404] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
-[13Jun2025 21:52:41.414] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
-[13Jun2025 21:52:41.414] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
-[13Jun2025 21:52:41.417] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
-[13Jun2025 21:52:41.418] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
-[13Jun2025 21:52:41.419] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
-[13Jun2025 21:52:41.419] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
-[13Jun2025 21:52:41.423] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
-[13Jun2025 21:52:41.426] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
-[13Jun2025 21:52:41.435] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
-[13Jun2025 21:52:41.437] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
-[13Jun2025 21:52:41.437] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
-[13Jun2025 21:52:41.438] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
-[13Jun2025 21:52:41.440] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
-[13Jun2025 21:52:41.440] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
-[13Jun2025 21:52:41.440] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
-[13Jun2025 21:52:41.440] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
-[13Jun2025 21:52:41.441] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
-[13Jun2025 21:52:41.443] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
-[13Jun2025 21:52:41.443] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
-[13Jun2025 21:52:41.443] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
-[13Jun2025 21:52:41.444] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
-[13Jun2025 21:52:41.448] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
-[13Jun2025 21:52:41.451] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
-[13Jun2025 21:52:41.451] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
-[13Jun2025 21:52:41.451] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
-[13Jun2025 21:52:41.451] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
-[13Jun2025 21:52:41.453] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
-[13Jun2025 21:52:41.455] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
-[13Jun2025 21:52:41.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
-[13Jun2025 21:52:41.460] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
-[13Jun2025 21:52:41.467] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
-[13Jun2025 21:52:41.469] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
-[13Jun2025 21:52:41.490] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
-[13Jun2025 21:52:41.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
-[13Jun2025 21:52:41.495] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
-[13Jun2025 21:52:41.495] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
-[13Jun2025 21:52:41.495] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
-[13Jun2025 21:52:41.496] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
-[13Jun2025 21:52:41.496] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
-[13Jun2025 21:52:41.500] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
-[13Jun2025 21:52:41.501] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
-[13Jun2025 21:52:41.503] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
-[13Jun2025 21:52:41.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
-[13Jun2025 21:52:41.507] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
-[13Jun2025 21:52:41.519] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
-[13Jun2025 21:52:41.539] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
-[13Jun2025 21:52:41.539] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
-[13Jun2025 21:52:41.542] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
-[13Jun2025 21:52:41.543] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
-[13Jun2025 21:52:41.547] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
-[13Jun2025 21:52:41.552] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
-[13Jun2025 21:52:41.553] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
-[13Jun2025 21:52:41.556] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
-[13Jun2025 21:52:41.556] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
-[13Jun2025 21:52:41.557] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
-[13Jun2025 21:52:41.558] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
-[13Jun2025 21:52:41.559] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
-[13Jun2025 21:52:41.559] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
-[13Jun2025 21:52:41.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
-[13Jun2025 21:52:41.568] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
-[13Jun2025 21:52:41.570] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
-[13Jun2025 21:52:41.575] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
-[13Jun2025 21:52:41.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
-[13Jun2025 21:52:41.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
-[13Jun2025 21:52:41.578] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
-[13Jun2025 21:52:41.581] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
-[13Jun2025 21:52:41.585] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
-[13Jun2025 21:52:41.587] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
-[13Jun2025 21:52:41.589] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
-[13Jun2025 21:52:41.589] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
-[13Jun2025 21:52:41.593] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
-[13Jun2025 21:52:41.593] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
-[13Jun2025 21:52:41.594] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
-[13Jun2025 21:52:41.622] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
-[13Jun2025 21:52:41.632] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
-[13Jun2025 21:52:41.634] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
-[13Jun2025 21:52:41.638] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
-[13Jun2025 21:52:41.640] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
-[13Jun2025 21:52:41.662] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
-[13Jun2025 21:52:41.664] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
-[13Jun2025 21:52:41.671] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
-[13Jun2025 21:52:41.677] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
-[13Jun2025 21:52:41.678] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
-[13Jun2025 21:52:41.684] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
-[13Jun2025 21:52:41.685] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
-[13Jun2025 21:52:41.685] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
-[13Jun2025 21:52:41.686] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 160 modules.
-[13Jun2025 21:52:41.851] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/aaserver/servidor_minecraft/config/quark-common.toml is not correct. Correcting
-[13Jun2025 21:52:42.154] [main/INFO] [zeta-internal/]: Dispatching ZRegister to 3 listeners
-[13Jun2025 21:52:42.158] [main/INFO] [zeta-internal/]: Dispatching ZRegister$Post to 1 listener
-[13Jun2025 21:52:42.159] [main/INFO] [quark-zeta/]: Dispatching ZRegister to 96 listeners
-[13Jun2025 21:52:42.836] [main/INFO] [quark-zeta/]: Dispatching ZRegister$Post to 6 listeners
-[13Jun2025 21:52:44.597] [main/INFO] [Moonlight/]: Initialized block sets in 29ms
-[13Jun2025 21:52:46.839] [main/INFO] [quark-zeta/]: Dispatching ForgeZEntityAttributeCreation (as ZEntityAttributeCreation) to 7 listeners
-[13Jun2025 21:52:47.035] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[13Jun2025 21:52:47.078] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
-[13Jun2025 21:52:47.079] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
-[13Jun2025 21:52:47.104] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
-[13Jun2025 21:52:47.221] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
-[13Jun2025 21:52:47.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[13Jun2025 21:52:47.405] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[13Jun2025 21:52:47.408] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
-[13Jun2025 21:52:47.451] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 2 listeners
-[13Jun2025 21:52:47.452] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 39 listeners
-[13Jun2025 21:52:47.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: OUTDATED Current: 8.0.1 Target: 8.0.2
-[13Jun2025 21:52:47.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[13Jun2025 21:52:47.703] [main/INFO] [Moonlight/]: Initialized color sets in 62ms
-[13Jun2025 21:52:47.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.2.0-neoforge Target: 1.20.1-1.5.2-neoforge
-[13Jun2025 21:52:47.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
-[13Jun2025 21:52:47.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: OUTDATED Current: 8.0.3 Target: 8.0.7
-[13Jun2025 21:52:47.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[13Jun2025 21:52:47.728] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
-[13Jun2025 21:52:47.734] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
-[13Jun2025 21:52:47.768] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 0, 0, 0, 14, 1] ms
-[13Jun2025 21:52:47.771] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[13Jun2025 21:52:47.773] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[13Jun2025 21:52:47.822] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[13Jun2025 21:52:47.826] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 1 listener
-[13Jun2025 21:52:47.826] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 6 listeners
-[13Jun2025 21:52:47.847] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[13Jun2025 21:52:47.848] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[13Jun2025 21:52:48.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2145 Target: null
-[13Jun2025 21:52:48.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[13Jun2025 21:52:48.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[13Jun2025 21:52:48.428] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[13Jun2025 21:52:48.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 8.9.5
-[13Jun2025 21:52:48.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[13Jun2025 21:52:48.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
-[13Jun2025 21:52:48.523] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[13Jun2025 21:52:48.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
-[13Jun2025 21:52:48.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[13Jun2025 21:52:48.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[13Jun2025 21:52:48.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[13Jun2025 21:52:49.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[13Jun2025 21:52:49.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[13Jun2025 21:52:49.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[13Jun2025 21:52:49.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Jun2025 21:52:49.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[13Jun2025 21:52:49.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[13Jun2025 21:52:49.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.11.0 Target: null
-[13Jun2025 21:52:49.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[13Jun2025 21:52:49.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.10.0.1
-[13Jun2025 21:52:49.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[13Jun2025 21:52:49.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.6 Target: null
-[13Jun2025 21:52:49.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[13Jun2025 21:52:49.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.17 Target: 8.1.32
-[13Jun2025 21:52:49.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
-[13Jun2025 21:52:49.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: OUTDATED Current: 1.15.18 Target: 1.15.20
-[13Jun2025 21:52:57.615] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13Jun2025 21:53:04.944] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/aaserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23283!/assets/.mcassetsroot' uses unexpected schema
-[13Jun2025 21:53:04.945] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/aaserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23283!/data/.mcassetsroot' uses unexpected schema
-[13Jun2025 21:53:05.116] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 53 ms
-[13Jun2025 21:53:06.788] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[13Jun2025 21:53:06.795] [main/INFO] [com.github.L_Ender.cataclysm.Cataclysm/]: Adding datapack listener altar_of_amethyst_recipes
-[13Jun2025 21:53:06.803] [main/INFO] [zeta-internal/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
-[13Jun2025 21:53:06.805] [main/INFO] [quark-zeta/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
-[13Jun2025 21:53:06.805] [main/INFO] [quark-zeta/]: Dispatching AdvancementModifierRegistry$1 (as ZGatherAdvancementModifiers) to 1 listener
-[13Jun2025 21:53:06.883] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:skreechers_can_spawn_wardens as it is missing following references: deeperdarker:otherside (from deeperdarker-forge-1.20.1-1.2.1.jar)
-[13Jun2025 21:53:06.891] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[13Jun2025 21:53:06.913] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.3.jar
-[13Jun2025 21:53:08.722] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/fawn}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 21:53:08.722] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/theheavy}.pools[2].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 21:53:08.722] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/slaveman}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 21:53:08.722] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/theskeeper}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 21:53:08.722] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/deer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 21:53:08.722] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/deer}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 21:53:08.722] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/fawn}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 21:53:08.776] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[13Jun2025 21:53:08.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[13Jun2025 21:53:08.800] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[13Jun2025 21:53:08.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[13Jun2025 21:53:08.856] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[13Jun2025 21:53:08.869] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[13Jun2025 21:53:08.902] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[13Jun2025 21:53:08.909] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[13Jun2025 21:53:08.912] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+[14Jun2025 16:16:59.840] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[14Jun2025 16:16:59.840] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[14Jun2025 16:17:00.542] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[14Jun2025 16:17:00.907] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[14Jun2025 16:17:08.211] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[14Jun2025 16:17:08.221] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[14Jun2025 16:17:08.312] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
+[14Jun2025 16:17:08.314] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
+[14Jun2025 16:17:08.977] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[14Jun2025 16:17:09.332] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[14Jun2025 16:17:09.407] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[14Jun2025 16:17:09.462] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[14Jun2025 16:17:09.487] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[14Jun2025 16:17:09.540] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[14Jun2025 16:17:09.726] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[14Jun2025 16:17:09.751] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[14Jun2025 16:17:09.838] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[14Jun2025 16:17:09.838] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[14Jun2025 16:17:09.842] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[14Jun2025 16:17:09.843] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[14Jun2025 16:17:09.848] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[14Jun2025 16:17:09.855] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[14Jun2025 16:17:09.858] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[14Jun2025 16:17:09.860] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[14Jun2025 16:17:09.864] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[14Jun2025 16:17:11.750] [ForkJoinPool.commonPool-worker-1/INFO] [friendsandfoes/]: [Friends&Foes] An update is available! You are using 2.0.10 version, but the latest version is 3.0.9.
+[14Jun2025 16:17:12.221] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[14Jun2025 16:17:12.231] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[14Jun2025 16:17:12.426] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 160 modules to load.
+[14Jun2025 16:17:12.431] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[14Jun2025 16:17:12.439] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[14Jun2025 16:17:12.441] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[14Jun2025 16:17:12.441] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[14Jun2025 16:17:12.456] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[14Jun2025 16:17:12.469] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[14Jun2025 16:17:12.469] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[14Jun2025 16:17:12.470] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[14Jun2025 16:17:12.470] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[14Jun2025 16:17:12.477] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[14Jun2025 16:17:12.478] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[14Jun2025 16:17:12.478] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[14Jun2025 16:17:12.486] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[14Jun2025 16:17:12.486] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[14Jun2025 16:17:12.487] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[14Jun2025 16:17:12.498] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[14Jun2025 16:17:12.500] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[14Jun2025 16:17:12.502] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[14Jun2025 16:17:12.502] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[14Jun2025 16:17:12.503] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[14Jun2025 16:17:12.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[14Jun2025 16:17:12.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[14Jun2025 16:17:12.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[14Jun2025 16:17:12.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[14Jun2025 16:17:12.510] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[14Jun2025 16:17:12.511] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[14Jun2025 16:17:12.514] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[14Jun2025 16:17:12.517] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[14Jun2025 16:17:12.517] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[14Jun2025 16:17:12.518] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[14Jun2025 16:17:12.518] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[14Jun2025 16:17:12.540] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[14Jun2025 16:17:12.544] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[14Jun2025 16:17:12.547] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[14Jun2025 16:17:12.548] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[14Jun2025 16:17:12.549] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[14Jun2025 16:17:12.550] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[14Jun2025 16:17:12.550] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[14Jun2025 16:17:12.551] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[14Jun2025 16:17:12.552] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[14Jun2025 16:17:12.554] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[14Jun2025 16:17:12.555] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[14Jun2025 16:17:12.556] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[14Jun2025 16:17:12.557] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[14Jun2025 16:17:12.558] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[14Jun2025 16:17:12.559] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[14Jun2025 16:17:12.560] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[14Jun2025 16:17:12.562] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[14Jun2025 16:17:12.563] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[14Jun2025 16:17:12.564] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[14Jun2025 16:17:12.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[14Jun2025 16:17:12.568] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[14Jun2025 16:17:12.578] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[14Jun2025 16:17:12.581] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[14Jun2025 16:17:12.582] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[14Jun2025 16:17:12.583] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[14Jun2025 16:17:12.586] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[14Jun2025 16:17:12.587] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[14Jun2025 16:17:12.600] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[14Jun2025 16:17:12.602] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[14Jun2025 16:17:12.604] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[14Jun2025 16:17:12.605] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[14Jun2025 16:17:12.608] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[14Jun2025 16:17:12.609] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[14Jun2025 16:17:12.611] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[14Jun2025 16:17:12.612] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[14Jun2025 16:17:12.612] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[14Jun2025 16:17:12.613] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[14Jun2025 16:17:12.614] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[14Jun2025 16:17:12.615] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[14Jun2025 16:17:12.616] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[14Jun2025 16:17:12.616] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[14Jun2025 16:17:12.618] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[14Jun2025 16:17:12.618] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[14Jun2025 16:17:12.624] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[14Jun2025 16:17:12.624] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[14Jun2025 16:17:12.625] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[14Jun2025 16:17:12.625] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[14Jun2025 16:17:12.626] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[14Jun2025 16:17:12.626] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[14Jun2025 16:17:12.631] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[14Jun2025 16:17:12.631] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[14Jun2025 16:17:12.638] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[14Jun2025 16:17:12.638] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[14Jun2025 16:17:12.638] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[14Jun2025 16:17:12.639] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[14Jun2025 16:17:12.639] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[14Jun2025 16:17:12.640] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[14Jun2025 16:17:12.640] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[14Jun2025 16:17:12.641] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[14Jun2025 16:17:12.641] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[14Jun2025 16:17:12.642] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[14Jun2025 16:17:12.642] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[14Jun2025 16:17:12.643] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[14Jun2025 16:17:12.644] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[14Jun2025 16:17:12.646] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[14Jun2025 16:17:12.647] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[14Jun2025 16:17:12.647] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[14Jun2025 16:17:12.647] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[14Jun2025 16:17:12.648] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[14Jun2025 16:17:12.649] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[14Jun2025 16:17:12.651] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[14Jun2025 16:17:12.652] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[14Jun2025 16:17:12.653] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[14Jun2025 16:17:12.657] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[14Jun2025 16:17:12.657] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[14Jun2025 16:17:12.660] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[14Jun2025 16:17:12.661] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[14Jun2025 16:17:12.661] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[14Jun2025 16:17:12.661] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[14Jun2025 16:17:12.663] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[14Jun2025 16:17:12.663] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[14Jun2025 16:17:12.663] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[14Jun2025 16:17:12.665] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[14Jun2025 16:17:12.666] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[14Jun2025 16:17:12.669] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[14Jun2025 16:17:12.671] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[14Jun2025 16:17:12.672] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[14Jun2025 16:17:12.693] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[14Jun2025 16:17:12.701] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[14Jun2025 16:17:12.701] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[14Jun2025 16:17:12.702] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[14Jun2025 16:17:12.702] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[14Jun2025 16:17:12.703] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[14Jun2025 16:17:12.706] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[14Jun2025 16:17:12.707] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[14Jun2025 16:17:12.708] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[14Jun2025 16:17:12.709] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[14Jun2025 16:17:12.709] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[14Jun2025 16:17:12.710] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[14Jun2025 16:17:12.711] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[14Jun2025 16:17:12.711] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[14Jun2025 16:17:12.714] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[14Jun2025 16:17:12.715] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[14Jun2025 16:17:12.716] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[14Jun2025 16:17:12.717] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[14Jun2025 16:17:12.718] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[14Jun2025 16:17:12.719] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[14Jun2025 16:17:12.722] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[14Jun2025 16:17:12.722] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[14Jun2025 16:17:12.724] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[14Jun2025 16:17:12.725] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[14Jun2025 16:17:12.726] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[14Jun2025 16:17:12.726] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[14Jun2025 16:17:12.727] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[14Jun2025 16:17:12.728] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[14Jun2025 16:17:12.729] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[14Jun2025 16:17:12.742] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[14Jun2025 16:17:12.749] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[14Jun2025 16:17:12.749] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[14Jun2025 16:17:12.751] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[14Jun2025 16:17:12.752] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[14Jun2025 16:17:12.765] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[14Jun2025 16:17:12.765] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[14Jun2025 16:17:12.768] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[14Jun2025 16:17:12.769] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[14Jun2025 16:17:12.771] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[14Jun2025 16:17:12.771] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[14Jun2025 16:17:12.775] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[14Jun2025 16:17:12.775] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[14Jun2025 16:17:12.776] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 160 modules.
+[14Jun2025 16:17:12.868] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/aaserver/servidor_minecraft/config/quark-common.toml is not correct. Correcting
+[14Jun2025 16:17:13.208] [main/INFO] [zeta-internal/]: Dispatching ZRegister to 3 listeners
+[14Jun2025 16:17:13.212] [main/INFO] [zeta-internal/]: Dispatching ZRegister$Post to 1 listener
+[14Jun2025 16:17:13.213] [main/INFO] [quark-zeta/]: Dispatching ZRegister to 96 listeners
+[14Jun2025 16:17:13.932] [main/INFO] [quark-zeta/]: Dispatching ZRegister$Post to 6 listeners
+[14Jun2025 16:17:15.892] [main/INFO] [Moonlight/]: Initialized block sets in 17ms
+[14Jun2025 16:17:18.052] [main/INFO] [quark-zeta/]: Dispatching ForgeZEntityAttributeCreation (as ZEntityAttributeCreation) to 7 listeners
+[14Jun2025 16:17:18.242] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[14Jun2025 16:17:18.289] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
+[14Jun2025 16:17:18.291] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[14Jun2025 16:17:18.310] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
+[14Jun2025 16:17:18.327] [Thread-3/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
+[14Jun2025 16:17:18.376] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
+[14Jun2025 16:17:18.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[14Jun2025 16:17:18.550] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[14Jun2025 16:17:18.555] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[14Jun2025 16:17:18.589] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 2 listeners
+[14Jun2025 16:17:18.593] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 39 listeners
+[14Jun2025 16:17:18.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: OUTDATED Current: 8.0.1 Target: 8.0.2
+[14Jun2025 16:17:18.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[14Jun2025 16:17:18.822] [main/INFO] [Moonlight/]: Initialized color sets in 65ms
+[14Jun2025 16:17:18.845] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
+[14Jun2025 16:17:18.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.2.0-neoforge Target: 1.20.1-1.5.2-neoforge
+[14Jun2025 16:17:18.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[14Jun2025 16:17:18.852] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
+[14Jun2025 16:17:18.870] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 0, 0, 0, 11, 1] ms
+[14Jun2025 16:17:18.885] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[14Jun2025 16:17:18.888] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[14Jun2025 16:17:18.919] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[14Jun2025 16:17:18.927] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 1 listener
+[14Jun2025 16:17:18.928] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 6 listeners
+[14Jun2025 16:17:18.937] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[14Jun2025 16:17:18.940] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[14Jun2025 16:17:19.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: OUTDATED Current: 8.0.3 Target: 8.0.7
+[14Jun2025 16:17:19.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[14Jun2025 16:17:19.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2145 Target: null
+[14Jun2025 16:17:19.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[14Jun2025 16:17:19.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[14Jun2025 16:17:19.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[14Jun2025 16:17:19.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 8.9.5
+[14Jun2025 16:17:19.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[14Jun2025 16:17:19.608] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
+[14Jun2025 16:17:19.608] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[14Jun2025 16:17:19.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
+[14Jun2025 16:17:19.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[14Jun2025 16:17:19.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[14Jun2025 16:17:19.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[14Jun2025 16:17:20.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[14Jun2025 16:17:20.220] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[14Jun2025 16:17:20.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[14Jun2025 16:17:20.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Jun2025 16:17:20.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[14Jun2025 16:17:20.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[14Jun2025 16:17:20.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.11.0 Target: null
+[14Jun2025 16:17:20.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[14Jun2025 16:17:20.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.10.0.1
+[14Jun2025 16:17:20.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[14Jun2025 16:17:20.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.6 Target: null
+[14Jun2025 16:17:20.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[14Jun2025 16:17:20.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.17 Target: 8.1.32
+[14Jun2025 16:17:20.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[14Jun2025 16:17:20.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: OUTDATED Current: 1.15.18 Target: 1.15.20
+[14Jun2025 16:17:28.511] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Jun2025 16:17:36.320] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/aaserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23283!/assets/.mcassetsroot' uses unexpected schema
+[14Jun2025 16:17:36.321] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/aaserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23283!/data/.mcassetsroot' uses unexpected schema
+[14Jun2025 16:17:36.478] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 51 ms
+[14Jun2025 16:17:38.453] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[14Jun2025 16:17:38.459] [main/INFO] [com.github.L_Ender.cataclysm.Cataclysm/]: Adding datapack listener altar_of_amethyst_recipes
+[14Jun2025 16:17:38.467] [main/INFO] [quark-zeta/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
+[14Jun2025 16:17:38.468] [main/INFO] [quark-zeta/]: Dispatching AdvancementModifierRegistry$1 (as ZGatherAdvancementModifiers) to 1 listener
+[14Jun2025 16:17:38.469] [main/INFO] [zeta-internal/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
+[14Jun2025 16:17:38.628] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.3.jar
+[14Jun2025 16:17:38.744] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:skreechers_can_spawn_wardens as it is missing following references: deeperdarker:otherside (from deeperdarker-forge-1.20.1-1.2.1.jar)
+[14Jun2025 16:17:38.748] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[14Jun2025 16:17:40.585] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/fawn}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Jun2025 16:17:40.585] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/theheavy}.pools[2].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Jun2025 16:17:40.585] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/slaveman}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Jun2025 16:17:40.585] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/theskeeper}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Jun2025 16:17:40.585] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/deer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Jun2025 16:17:40.585] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/deer}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Jun2025 16:17:40.585] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/fawn}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Jun2025 16:17:40.639] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[14Jun2025 16:17:40.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[14Jun2025 16:17:40.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[14Jun2025 16:17:40.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[14Jun2025 16:17:40.723] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[14Jun2025 16:17:40.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[14Jun2025 16:17:40.769] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[14Jun2025 16:17:40.778] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[14Jun2025 16:17:40.782] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -423,7 +424,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[13Jun2025 21:53:08.917] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+[14Jun2025 16:17:40.787] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -452,11 +453,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[13Jun2025 21:53:08.930] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[13Jun2025 21:53:08.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[13Jun2025 21:53:08.934] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[13Jun2025 21:53:08.939] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
-[13Jun2025 21:53:08.940] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+[14Jun2025 16:17:40.803] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[14Jun2025 16:17:40.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[14Jun2025 16:17:40.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[14Jun2025 16:17:40.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
+[14Jun2025 16:17:40.811] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -472,7 +473,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[13Jun2025 21:53:08.943] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[14Jun2025 16:17:40.813] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -488,196 +489,279 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[13Jun2025 21:53:09.005] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[13Jun2025 21:53:09.117] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 4248 recipe advancements
-[13Jun2025 21:53:09.129] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1017 advancements
-[13Jun2025 21:53:09.145] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[13Jun2025 21:53:09.161] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
-[13Jun2025 21:53:09.173] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
-[13Jun2025 21:53:09.177] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[14Jun2025 16:17:40.882] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[14Jun2025 16:17:40.985] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 4248 recipe advancements
+[14Jun2025 16:17:40.998] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1017 advancements
+[14Jun2025 16:17:41.014] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[14Jun2025 16:17:41.027] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
+[14Jun2025 16:17:41.033] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[14Jun2025 16:17:41.035] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[13Jun2025 21:53:09.223] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
-[13Jun2025 21:53:09.223] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
-[13Jun2025 21:53:09.223] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
-[13Jun2025 21:53:09.224] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[13Jun2025 21:53:09.224] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
-[13Jun2025 21:53:09.224] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
-[13Jun2025 21:53:09.224] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
-[13Jun2025 21:53:09.224] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[13Jun2025 21:53:09.225] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[13Jun2025 21:53:09.225] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[13Jun2025 21:53:09.225] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[13Jun2025 21:53:09.225] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[13Jun2025 21:53:09.225] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
-[13Jun2025 21:53:09.225] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
-[13Jun2025 21:53:09.226] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
-[13Jun2025 21:53:09.227] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
-[13Jun2025 21:53:09.227] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
-[13Jun2025 21:53:09.227] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
-[13Jun2025 21:53:09.227] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
-[13Jun2025 21:53:09.228] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
-[13Jun2025 21:53:09.228] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
-[13Jun2025 21:53:09.228] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
-[13Jun2025 21:53:09.232] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
-[13Jun2025 21:53:09.232] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
-[13Jun2025 21:53:09.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
-[13Jun2025 21:53:09.233] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
-[13Jun2025 21:53:09.234] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
-[13Jun2025 21:53:09.235] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
-[13Jun2025 21:53:09.235] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 2 patches
-[13Jun2025 21:53:09.235] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
-[13Jun2025 21:53:09.235] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
-[13Jun2025 21:53:09.235] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
-[13Jun2025 21:53:09.247] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[13Jun2025 21:53:15.919] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[13Jun2025 21:53:15.924] [main/INFO] [zeta-internal/]: Dispatching ZTagsUpdated to 1 listener
-[13Jun2025 21:53:15.941] [main/INFO] [Supplementaries/]: Finished additional setup in 16 ms
-[13Jun2025 21:53:16.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[13Jun2025 21:53:16.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Jun2025 21:53:16.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Jun2025 21:53:16.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Jun2025 21:53:16.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Jun2025 21:53:16.258] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Jun2025 21:53:16.332] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13Jun2025 21:53:16.333] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[13Jun2025 21:53:16.333] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13Jun2025 21:53:16.333] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[13Jun2025 21:53:16.344] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
-[13Jun2025 21:53:16.346] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[13Jun2025 21:53:16.348] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[13Jun2025 21:53:16.352] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[13Jun2025 21:53:16.353] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[13Jun2025 21:53:16.354] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[13Jun2025 21:53:16.359] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[13Jun2025 21:53:16.361] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[13Jun2025 21:53:16.367] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[13Jun2025 21:53:16.368] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[13Jun2025 21:53:16.369] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[13Jun2025 21:53:16.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Jun2025 21:53:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Jun2025 21:53:28.497] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.498] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.499] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.499] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.500] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.500] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.501] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.501] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.502] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.503] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.504] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.505] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.508] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 21:53:28.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[13Jun2025 21:53:29.139] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
-[13Jun2025 21:53:29.366] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[13Jun2025 21:53:29.801] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7436 ms
-[13Jun2025 21:53:29.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.460s)! For help, type "help"
-[13Jun2025 21:53:29.868] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[13Jun2025 21:53:29.875] [Server thread/INFO] [net.stardustlabs.nullscape.Nullscape/]: Thanks for choosing Nullscape!
-[13Jun2025 21:53:29.876] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
-[13Jun2025 21:53:29.876] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
-[13Jun2025 21:53:29.877] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
-[13Jun2025 21:53:29.878] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[13Jun2025 21:53:29.879] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[13Jun2025 21:53:29.893] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[13Jun2025 21:53:29.894] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[13Jun2025 21:53:29.894] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[13Jun2025 21:53:29.895] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[13Jun2025 21:53:29.895] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/aaserver/servidor_minecraft/./config/infernalmobs.cfg
-[13Jun2025 21:59:57.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[13Jun2025 21:59:57.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: resuelvelo<--[HERE]
-[13Jun2025 22:00:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[13Jun2025 22:00:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [0m[2;35mLa IP del servidor es:
-[0m[2;36mmany-edward.gl.joinmc.link<--[HERE]
-[13Jun2025 22:01:12.504] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[13Jun2025 22:01:12.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THbelcebu[/127.36.50.7:57033] logged in with entity id 1907 at (7.5, 76.0, 5.5)
-[13Jun2025 22:01:12.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu joined the game
-[13Jun2025 22:01:13.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has completed the challenge [The Undead]
-[13Jun2025 22:01:13.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Ice and Fire]
-[13Jun2025 22:02:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Fisk of the Sand
-[13Jun2025 22:02:43.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Your First Grave]
-[13Jun2025 22:02:43.235] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
-[13Jun2025 22:06:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by The Moonflower
-[13Jun2025 22:06:26.701] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
-[13Jun2025 22:06:36.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has reached the goal [Here They Come]
-[13Jun2025 22:07:51.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was doomed to fall
-[13Jun2025 22:07:51.225] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
-[13Jun2025 22:09:58.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [When in Rome]
-[13Jun2025 22:10:04.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Anaconda
-[13Jun2025 22:10:04.196] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
-[13Jun2025 22:11:44.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Cobweb Entanglement]
-[13Jun2025 22:12:43.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Anaconda
-[13Jun2025 22:12:43.931] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
-[13Jun2025 22:19:19.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Stone Age]
-[13Jun2025 22:25:04.408] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
-[13Jun2025 22:25:04.498] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
-[13Jun2025 22:25:04.499] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
-[13Jun2025 22:25:04.499] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
-[13Jun2025 22:25:04.499] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
-[13Jun2025 22:25:04.499] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
-[13Jun2025 22:25:04.500] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
-[13Jun2025 22:25:04.500] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
-[13Jun2025 22:25:22.306] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
-[13Jun2025 22:25:22.306] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
-[13Jun2025 22:25:22.315] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
-[13Jun2025 22:25:22.316] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
-[13Jun2025 22:25:22.316] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
-[13Jun2025 22:25:22.317] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
-[13Jun2025 22:25:22.317] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
-[13Jun2025 22:25:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu hit the ground too hard
-[13Jun2025 22:25:38.177] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
-[13Jun2025 22:27:50.664] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[13Jun2025 22:27:50.665] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[13Jun2025 22:27:50.833] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[13Jun2025 22:27:50.833] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[13Jun2025 22:27:50.833] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[13Jun2025 22:27:50.833] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[13Jun2025 22:27:50.834] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[13Jun2025 22:27:50.842] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
-[13Jun2025 22:27:50.843] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
-[13Jun2025 22:27:50.843] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
-[13Jun2025 22:27:54.580] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
-[13Jun2025 22:27:54.645] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
-[13Jun2025 22:27:54.645] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
-[13Jun2025 22:28:27.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THbelcebu lost connection: Disconnected
-[13Jun2025 22:28:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu left the game
-[13Jun2025 22:28:45.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THbelcebu[/127.36.50.7:50443] logged in with entity id 10516 at (-71.04775472690365, 84.0, 457.69999998807907)
-[13Jun2025 22:28:45.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu joined the game
-[13Jun2025 22:29:25.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Getting an Upgrade]
-[13Jun2025 22:29:32.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Nightmare Stalker
-[13Jun2025 22:29:32.592] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
-[13Jun2025 22:33:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Dread Hound
-[13Jun2025 22:33:42.776] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
-[13Jun2025 22:40:20.735] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
-[13Jun2025 22:41:18.820] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
-[13Jun2025 22:41:23.664] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
-[13Jun2025 22:41:23.821] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
-[13Jun2025 22:41:31.911] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
-[13Jun2025 22:42:53.901] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-181, y=74, z=933}
-[13Jun2025 22:42:57.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
-[13Jun2025 22:42:57.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THbelcebu moved too quickly! -1.7696871878409866,0.0,9.909063395674934
-[13Jun2025 22:44:06.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Acquire Hardware]
-[13Jun2025 22:50:58.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Isn't It Iron Pick]
-[13Jun2025 22:51:02.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THbelcebu lost connection: Disconnected
-[13Jun2025 22:51:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu left the game
-[13Jun2025 22:53:25.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THbelcebu[/127.36.50.7:35457] logged in with entity id 17367 at (-111.20483148083166, 22.0, 855.1870655962487)
-[13Jun2025 22:53:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu joined the game
-[13Jun2025 22:54:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Amateur Archaeologist]
-[13Jun2025 23:01:13.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Diamonds!]
-[13Jun2025 23:01:38.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Knowledge of Death]
-[13Jun2025 23:01:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Back to childhood]
-[13Jun2025 23:01:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Not even afraid of death]
-[13Jun2025 23:07:43.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Chest Slayer]
-[13Jun2025 23:08:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Magic Writing]
-[13Jun2025 23:12:04.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has reached the goal [A self-respecting Soul]
+[14Jun2025 16:17:41.064] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[14Jun2025 16:17:41.064] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[14Jun2025 16:17:41.065] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[14Jun2025 16:17:41.065] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[14Jun2025 16:17:41.065] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[14Jun2025 16:17:41.065] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[14Jun2025 16:17:41.065] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[14Jun2025 16:17:41.065] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[14Jun2025 16:17:41.065] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[14Jun2025 16:17:41.065] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[14Jun2025 16:17:41.066] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[14Jun2025 16:17:41.067] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[14Jun2025 16:17:41.070] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[14Jun2025 16:17:41.070] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[14Jun2025 16:17:41.071] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[14Jun2025 16:17:41.071] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[14Jun2025 16:17:41.071] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
+[14Jun2025 16:17:41.071] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
+[14Jun2025 16:17:41.072] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 2 patches
+[14Jun2025 16:17:41.072] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[14Jun2025 16:17:41.072] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[14Jun2025 16:17:41.072] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[14Jun2025 16:17:41.086] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[14Jun2025 16:17:47.339] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[14Jun2025 16:17:47.345] [main/INFO] [zeta-internal/]: Dispatching ZTagsUpdated to 1 listener
+[14Jun2025 16:17:47.365] [main/INFO] [Supplementaries/]: Finished additional setup in 19 ms
+[14Jun2025 16:17:47.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[14Jun2025 16:17:47.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Jun2025 16:17:47.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Jun2025 16:17:47.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Jun2025 16:17:47.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Jun2025 16:17:47.727] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Jun2025 16:17:47.810] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Jun2025 16:17:47.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Jun2025 16:17:47.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Jun2025 16:17:47.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Jun2025 16:17:47.823] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[14Jun2025 16:17:47.824] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[14Jun2025 16:17:47.825] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[14Jun2025 16:17:47.826] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[14Jun2025 16:17:47.828] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[14Jun2025 16:17:47.832] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[14Jun2025 16:17:47.833] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[14Jun2025 16:17:47.835] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[14Jun2025 16:17:47.839] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[14Jun2025 16:17:47.841] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[14Jun2025 16:17:47.843] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[14Jun2025 16:17:47.850] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[14Jun2025 16:17:48.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Jun2025 16:17:53.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Jun2025 16:17:58.723] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.727] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.728] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.728] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.729] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.730] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.731] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.731] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:17:58.994] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:18:00.197] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:18:00.198] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:18:00.899] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:18:01.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:18:01.480] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:18:02.009] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jun2025 16:18:02.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Jun2025 16:18:02.997] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Jun2025 16:18:03.468] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[14Jun2025 16:18:04.575] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[14Jun2025 16:18:04.576] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[14Jun2025 16:18:05.374] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[14Jun2025 16:18:06.358] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[14Jun2025 16:18:06.359] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[14Jun2025 16:18:06.467] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[14Jun2025 16:18:07.086] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[14Jun2025 16:18:07.910] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[14Jun2025 16:18:08.002] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[14Jun2025 16:18:08.975] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[14Jun2025 16:18:08.976] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[14Jun2025 16:18:09.322] [Worker-Main-3/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[14Jun2025 16:18:09.559] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[14Jun2025 16:18:09.560] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[14Jun2025 16:18:09.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[14Jun2025 16:18:09.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[14Jun2025 16:18:09.605] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[14Jun2025 16:18:09.682] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[14Jun2025 16:18:09.714] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[14Jun2025 16:18:09.725] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[14Jun2025 16:18:09.725] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[14Jun2025 16:18:09.773] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[14Jun2025 16:18:09.773] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[14Jun2025 16:18:09.775] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-597}
+[14Jun2025 16:18:09.797] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[14Jun2025 16:18:09.798] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[14Jun2025 16:18:09.818] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[14Jun2025 16:18:09.967] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[14Jun2025 16:18:10.902] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[14Jun2025 16:18:10.995] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[14Jun2025 16:18:12.040] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[14Jun2025 16:18:12.040] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[14Jun2025 16:18:12.845] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[14Jun2025 16:18:12.916] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[14Jun2025 16:18:12.917] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[14Jun2025 16:18:12.969] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[14Jun2025 16:18:13.486] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[14Jun2025 16:18:13.977] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[14Jun2025 16:18:14.473] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[14Jun2025 16:18:14.984] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[14Jun2025 16:18:15.695] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[14Jun2025 16:18:15.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[14Jun2025 16:18:16.835] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[14Jun2025 16:18:16.879] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[14Jun2025 16:18:16.879] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[14Jun2025 16:18:16.880] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[14Jun2025 16:18:16.880] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[14Jun2025 16:18:16.880] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[14Jun2025 16:18:16.881] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[14Jun2025 16:18:17.012] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[14Jun2025 16:18:17.474] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[14Jun2025 16:18:17.683] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[14Jun2025 16:18:17.683] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[14Jun2025 16:18:17.684] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[14Jun2025 16:18:17.824] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[14Jun2025 16:18:17.825] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[14Jun2025 16:18:17.945] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[14Jun2025 16:18:17.946] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[14Jun2025 16:18:17.968] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[14Jun2025 16:18:17.980] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[14Jun2025 16:18:17.992] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[14Jun2025 16:18:18.243] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[14Jun2025 16:18:18.244] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[14Jun2025 16:18:18.470] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
+[14Jun2025 16:18:18.967] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[14Jun2025 16:18:19.525] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[14Jun2025 16:18:19.985] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[14Jun2025 16:18:20.244] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[14Jun2025 16:18:20.245] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[14Jun2025 16:18:20.246] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[14Jun2025 16:18:20.247] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[14Jun2025 16:18:20.384] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[14Jun2025 16:18:20.384] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[14Jun2025 16:18:20.405] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[14Jun2025 16:18:20.406] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[14Jun2025 16:18:20.406] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[14Jun2025 16:18:20.407] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[14Jun2025 16:18:20.407] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[14Jun2025 16:18:20.488] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[14Jun2025 16:18:20.968] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[14Jun2025 16:18:21.159] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[14Jun2025 16:18:21.159] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[14Jun2025 16:18:21.159] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[14Jun2025 16:18:21.343] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.8309517f,range:8,source:{pos:[I;-484,-35,-681],type:"minecraft:block"}}]
+[14Jun2025 16:18:21.344] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.0f,range:8,source:{pos:[I;-481,-35,-684],type:"minecraft:block"}}]
+[14Jun2025 16:18:21.344] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-484, y=-27, z=-684}
+[14Jun2025 16:18:21.355] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[14Jun2025 16:18:21.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[14Jun2025 16:18:21.972] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[14Jun2025 16:18:22.491] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[14Jun2025 16:18:22.989] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[14Jun2025 16:18:23.477] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[14Jun2025 16:18:23.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[14Jun2025 16:18:23.788] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[14Jun2025 16:18:23.789] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[14Jun2025 16:18:23.974] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[14Jun2025 16:18:24.513] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[14Jun2025 16:18:24.983] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
+[14Jun2025 16:18:25.175] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[14Jun2025 16:18:25.176] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[14Jun2025 16:18:25.176] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[14Jun2025 16:18:25.177] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[14Jun2025 16:18:25.177] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[14Jun2025 16:18:25.192] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[14Jun2025 16:18:25.192] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[14Jun2025 16:18:25.192] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[14Jun2025 16:18:25.193] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[14Jun2025 16:18:25.193] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[14Jun2025 16:18:25.471] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[14Jun2025 16:18:25.973] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
+[14Jun2025 16:18:26.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[14Jun2025 16:18:26.975] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[14Jun2025 16:18:27.481] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[14Jun2025 16:18:27.976] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[14Jun2025 16:18:28.144] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=-52, z=-718}
+[14Jun2025 16:18:28.144] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=-52, z=-718}
+[14Jun2025 16:18:28.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=-51, z=-719}
+[14Jun2025 16:18:28.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=-51, z=-719}
+[14Jun2025 16:18:28.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=-52, z=-718}
+[14Jun2025 16:18:28.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=-51, z=-717}
+[14Jun2025 16:18:28.146] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=-51, z=-717}
+[14Jun2025 16:18:28.369] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=-52, z=-727}
+[14Jun2025 16:18:28.370] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=-52, z=-727}
+[14Jun2025 16:18:28.371] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-375, y=-52, z=-726}
+[14Jun2025 16:18:28.489] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[14Jun2025 16:18:28.553] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-82, y=-41, z=-164}
+[14Jun2025 16:18:28.869] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=178, y=-30, z=-31}
+[14Jun2025 16:18:28.967] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[14Jun2025 16:18:29.468] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[14Jun2025 16:18:30.008] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[14Jun2025 16:18:30.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[14Jun2025 16:18:30.971] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[14Jun2025 16:18:31.472] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[14Jun2025 16:18:31.983] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[14Jun2025 16:18:32.472] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[14Jun2025 16:18:32.969] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[14Jun2025 16:18:33.477] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[14Jun2025 16:18:33.985] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[14Jun2025 16:18:34.472] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[14Jun2025 16:18:34.683] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[14Jun2025 16:18:34.683] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[14Jun2025 16:18:34.978] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
+[14Jun2025 16:18:35.360] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 41893 ms
+[14Jun2025 16:18:35.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (47.539s)! For help, type "help"
+[14Jun2025 16:18:35.440] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Jun2025 16:18:35.447] [Server thread/INFO] [net.stardustlabs.nullscape.Nullscape/]: Thanks for choosing Nullscape!
+[14Jun2025 16:18:35.448] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
+[14Jun2025 16:18:35.448] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
+[14Jun2025 16:18:35.450] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
+[14Jun2025 16:18:35.450] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[14Jun2025 16:18:35.451] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[14Jun2025 16:18:35.466] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[14Jun2025 16:18:35.467] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[14Jun2025 16:18:35.467] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[14Jun2025 16:18:35.468] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[14Jun2025 16:18:35.468] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/aaserver/servidor_minecraft/./config/infernalmobs.cfg
+[14Jun2025 16:20:19.628] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Jun2025 16:20:19.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THbelcebu[/127.36.50.7:60251] logged in with entity id 2246 at (-110.69999998807907, 22.0, 856.4302169700522)
+[14Jun2025 16:20:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu joined the game
+[14Jun2025 16:20:29.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10002ms or 200 ticks behind
+[14Jun2025 16:20:31.188] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-96, y=12, z=992}
+[14Jun2025 16:20:36.830] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[14Jun2025 16:20:38.503] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[14Jun2025 16:20:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu was slain by Direwolf
+[14Jun2025 16:20:41.982] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
+[14Jun2025 16:20:46.060] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[14Jun2025 16:20:49.620] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[14Jun2025 16:20:52.746] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-108, y=31, z=687}
+[14Jun2025 16:20:52.747] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-107, y=31, z=687}
+[14Jun2025 16:20:52.749] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-106, y=31, z=687}
+[14Jun2025 16:21:06.258] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=68, y=-12, z=841}
+[14Jun2025 16:21:06.259] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=68, y=-12, z=839}
+[14Jun2025 16:21:13.513] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-218, y=-1, z=1027}
+[14Jun2025 16:21:13.514] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-219, y=-1, z=1027}
+[14Jun2025 16:21:26.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-329, y=-3, z=1003}
+[14Jun2025 16:21:26.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-330, y=-3, z=1003}
+[14Jun2025 16:24:01.120] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-42, y=-9, z=635}
