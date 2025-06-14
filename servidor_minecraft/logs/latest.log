@@ -771,3 +771,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 16:27:31.096] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-347, y=-29, z=730}
 [14Jun2025 16:32:02.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Sweet Dreams]
 [14Jun2025 16:32:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Suit Up]
+[14Jun2025 16:38:06.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu drowned
+[14Jun2025 16:38:06.778] [Server thread/INFO] [tombstone/]: The player THbelcebu has successfully been saved
+[14Jun2025 16:40:23.149] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[14Jun2025 16:40:23.149] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[14Jun2025 16:41:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Who You Gonna Call?]
