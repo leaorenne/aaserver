@@ -223,7 +223,8 @@
       "chicken": "2025-06-13 22:25:01 +0000",
       "bread": "2025-06-13 22:56:21 +0000",
       "golden_apple": "2025-06-13 23:07:05 +0000",
-      "rotten_flesh": "2025-06-13 23:09:00 +0000"
+      "rotten_flesh": "2025-06-13 23:09:00 +0000",
+      "glow_berries": "2025-06-14 16:25:31 +0000"
     },
     "done": false
   },
@@ -296,6 +297,25 @@
   "tombstone:adventure/use_mercy": {
     "criteria": {
       "has_magic_scroll": "2025-06-13 23:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-14 16:32:39 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-06-14 16:26:57 +0000",
+      "yellow": "2025-06-14 16:26:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-14 16:32:02 +0000"
     },
     "done": true
   },

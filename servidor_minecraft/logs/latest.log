@@ -765,3 +765,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 16:21:26.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-329, y=-3, z=1003}
 [14Jun2025 16:21:26.407] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-330, y=-3, z=1003}
 [14Jun2025 16:24:01.120] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-42, y=-9, z=635}
+[14Jun2025 16:27:10.762] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=82, y=-47, z=1114}
+[14Jun2025 16:27:10.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=82, y=-47, z=1115}
+[14Jun2025 16:27:31.095] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-348, y=-29, z=730}
+[14Jun2025 16:27:31.096] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-347, y=-29, z=730}
+[14Jun2025 16:32:02.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Sweet Dreams]
+[14Jun2025 16:32:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THbelcebu has made the advancement [Suit Up]
